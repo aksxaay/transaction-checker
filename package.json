@@ -1,0 +1,26 @@
+{
+  "name": "transaction-checker",
+  "version": "1.0.0",
+  "description": "Track Ethereum Transactions on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksxaay/transaction-checker.git"
+  },
+  "keywords": [
+    "ethereum",
+    "web3"
+  ],
+  "author": "jua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksxaay/transaction-checker/issues"
+  },
+  "homepage": "https://github.com/aksxaay/transaction-checker#readme",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
