@@ -7,3 +7,7 @@ This is the YT vid
 * Retrieve the latest block
 * Loop over all the transactions in that block
 * If the receiver field of a given transaction is the address wer're monitoring, check value
+
+
+import key in a block data
+number and transactions[] array
